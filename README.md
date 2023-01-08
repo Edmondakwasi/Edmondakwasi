@@ -34,5 +34,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=edmondakwasi&show_icons=true&locale=en&layout=compact" alt="edmondakwasi" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edmondakwasi&show_icons=true&locale=en" alt="edmondakwasi" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edmondakwasi&" alt="edmondakwasi" /></p>

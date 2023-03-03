@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/edmond akwasi" target="blank"><img src="https://img.shields.io/twitter/follow/edmond akwasi?logo=twitter&style=for-the-badge" alt="edmond akwasi" /></a> </p>
 <img align="right" alt="Coding" width="220" height="135vh"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🌱 I’m currently learning **Web-dev course**
+- 🌱 I’m currently learning **New Technologies**
 
 - 💬 Ask me about **anything in web-dev**
 

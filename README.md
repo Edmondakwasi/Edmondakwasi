@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **New Technologies**
 
-- 💬 Ask me about **anything in web-dev**
+- 💬 Ask me about **anything in web-development**
 
 - 📫 How to reach me **edmondakwasi133@gmail.com**
 

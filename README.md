@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmondakwasi&label=Profile%20views&color=0e75b6&style=flat" alt="edmondakwasi" /> </p>
-<p align="left"> <a href="[https://twitter.com/edmond akwasi](https://twitter.com/Techenvy6)" target="blank"><img src="https://img.shields.io/twitter/follow/edmond akwasi?logo=twitter&style=for-the-badge" alt="edmond akwasi" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/edmond akwasi](https://twitter.com/Techenvy6)" target="blank"><img src="https://img.shields.io/twitter/follow/Techenvy?logo=twitter&style=for-the-badge" alt="edmond akwasi" /></a> </p>
 <img align="right" alt="Coding" width="220" height="135vh"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **New Technologies**

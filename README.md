@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **edmondakwasi133@gmail.com**
 
-- ⚡ Fun fact **I become mentally ill without coding for a day.🤣**
+- ⚡ Fun fact **I read docs**
 
 
 

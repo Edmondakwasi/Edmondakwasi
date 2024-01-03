@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything in web-development**
 
-- 📫 How to reach me **edmondakwasi133@gmail.com**
+- 📫 How to reach me **edmondakwasi111@gmail.com**
 
 - ⚡ Fun fact **I read docs**
 

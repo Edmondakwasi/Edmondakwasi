@@ -1,9 +1,9 @@
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+
 <h1 align="center">Hi 👋, I'm Edmond Akwasi</h1>
 <h3 align="center">I'm a Tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmondakwasi&label=Profile%20views&color=0e75b6&style=flat" alt="edmondakwasi" /> </p>
-<p align="left"> <a href="[https://twitter.com/edmond akwasi](https://twitter.com/edmond_akwasi)" target="blank"><img src="https://img.shields.io/twitter/follow/Techenvy?logo=twitter&style=for-the-badge" alt="edmond akwasi" /></a> </p>
+<p align="left"> <a href="[https://x.com/edmond_akwasi](https://x.com/edmond_akwasi)" target="blank"><img src="https://img.shields.io/twitter/follow/edmond_akwasi?logo=twitter&style=for-the-badge" alt="edmond akwasi" /></a> </p>
 <img align="right" alt="Coding" width="220" height="135vh"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **New Technologies**

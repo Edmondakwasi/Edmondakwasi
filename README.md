@@ -13,7 +13,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/edmondakwasi/" target="_blank
 I'm a Front-end Web Developer 💻, and a UI Web Designer 
 </h2> 
 
-I love the entire process of developing creative websites. I'm curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand. I love meeting new people of all kinds so if you're looking for someone to talk tech, a podcast to be a guest on, or would like some help on a project don't hesitate to reach out!
+I love the entire process of developing creative websites. I'm curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay updated in the state of the art to meet challenges with tools well suited to the job at hand. I love meeting new people of all kinds so if you're looking for someone to talk tech, a podcast to be a guest on, or would like some help on a project don't hesitate to reach out!
 
 ### 🤝 Connect with me:
 
@@ -21,7 +21,7 @@ I love the entire process of developing creative websites. I'm curious, and I en
 <a href="https://instagram.com/edmond_akwasi1"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Edmond Akwasi | Instagram" width="21px"/></a>
 <a href="https://medium.com/@edmondakwasi133"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Edmond Akwasi | Medium" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to contact me!
 
 ## 🔭 I'm currently working on
 

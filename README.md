@@ -4,12 +4,6 @@
 [![committers.top badge](https://user-badge.committers.top/ghana_private/Edmondakwasi.svg)](https://user-badge.committers.top/ghana_private/Edmondakwasi)
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=edmondakwasi&show_icons=true&locale=en&layout=compact" alt="edmondakwasi" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edmondakwasi&show_icons=true&locale=en" alt="edmondakwasi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edmondakwasi&" alt="edmondakwasi" /></p>
 
 <p align="center">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
@@ -89,4 +83,10 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=edmondakwasi&show_icons=true&locale=en&layout=compact" alt="edmondakwasi" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edmondakwasi&show_icons=true&locale=en" alt="edmondakwasi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edmondakwasi&" alt="edmondakwasi" /></p>
 

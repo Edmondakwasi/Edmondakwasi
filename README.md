@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Edmond Akwasi</h1>
 <h3 align="center">I'm a Tech enthusiast</h3>
 
+
+[![committers.top badge](https://user-badge.committers.top/ghana_private/USERNAME.svg)](https://user-badge.committers.top/ghana_private/Edmondakwasi)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmondakwasi&label=Profile%20views&color=0e75b6&style=flat" alt="edmondakwasi" /> </p>
 <p align="left"> <a href="[https://x.com/edmond_akwasi](https://x.com/edmond_akwasi)" target="blank"><img src="https://img.shields.io/twitter/follow/edmond_akwasi?logo=twitter&style=for-the-badge" alt="edmond akwasi" /></a> </p>
 <img align="right" alt="Coding" width="220" height="135vh"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
@@ -24,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Techenvy6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edmond akwasi" height="30" width="40" /></a><a href="https://medium.com/@edmondakwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@edmondakwasi" height="30" width="40" /></a> <a href="https://hashnode.com/@edmondakwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@edmondakwasi" height="30" width="40" /></a>
+<a href="https://X.com/edmond_akwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edmond akwasi" height="30" width="40" /></a><a href="https://medium.com/@edmondakwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@edmondakwasi" height="30" width="40" /></a> <a href="https://hashnode.com/@edmondakwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@edmondakwasi" height="30" width="40" /></a>
 <a href="https://instagram.com/edmond akwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edmond akwasi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tech envy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech envy" height="30" width="40" /></a>
 <a href="https://dev.to/edmondakwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edmondakwasi" height="30" width="40" /></a>

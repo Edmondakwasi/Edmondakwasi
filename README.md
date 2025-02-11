@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/edmondakwasi/" target="_blank
 </h3>
 
 <h2 align="center">
-I'm a Front-end Web Developer 💻,and a UI Web Designer 
+I'm a Front-end Web Developer 💻, and a UI Web Designer 
 </h2> 
 
 I love the entire process of developing creative websites. I'm curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand. I love meeting new people of all kinds so if you're looking for someone to talk tech, a podcast to be a guest on, or would like some help on a project don't hesitate to reach out!

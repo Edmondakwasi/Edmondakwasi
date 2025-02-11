@@ -65,7 +65,9 @@ I love the entire process of developing creative websites. I'm curious, and I en
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Edmondakwasi)](https://github.com/Edmondakwasi)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edmondakwasi&" alt="edmondakwasi" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edmondakwasi&layout=compact)](https://github.com/yushi1007)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edmondakwasi&" alt="edmondakwasi" /></p>
+
 

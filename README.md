@@ -1,10 +1,6 @@
 [![committers.top badge](https://user-badge.committers.top/ghana_private/Edmondakwasi.svg)](https://user-badge.committers.top/ghana_private/Edmondakwasi)
 
 
-<p align="center">
- <img src="/image/banner.jpeg" alt="my banner">
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="https://www.linkedin.com/in/edmondakwasi/" target="_blank" rel="noreferrer">Edmond Akwasi</a> 👋
 </h3>
